@@ -1,0 +1,22 @@
+{
+  "name": "aps88tea77n",
+  "version": "1.0.0",
+  "description": "add test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/88n77/aps88Tea77n.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/88n77/aps88Tea77n/issues"
+  },
+  "homepage": "https://github.com/88n77/aps88Tea77n#readme"
+}
